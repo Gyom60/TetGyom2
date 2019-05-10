@@ -1,3 +1,1 @@
-# TetGyom2
-Test modif
-Modfi remote
+fichier de test pour exercice open classroom
